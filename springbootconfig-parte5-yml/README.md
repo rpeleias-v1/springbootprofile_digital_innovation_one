@@ -1,12 +1,14 @@
 <h2>Exercício Juntos - Spring Boot: Profiles e Configurações</h2>
 
 
-Projeto desenvolvido do tópico Exercício juntos, referente às parte 2 e 3 da aula sobre  **Profiles e Configurações com Spring Boot**, gravado para a Digital Innovation One.
+Projeto desenvolvido do tópico Exercício juntos, referente às parte 5 da aula sobre  **Profiles e Configurações com Spring Boot**, gravado para a Digital Innovation One.
 
 Na parte 5 da aula, foram desenvolvidos os seguintes passos:
 
-* Migração dos arquivos application-dev.properties e appliction-prod.properties para o formato YAML
-* Execução do projeto no terminal
+* Injeção do valor exportado através da variável de ambiente ENV_DB_URL na classe AppController.
+* Definição de um valor default junto com a anotação @Value caso a variável de ambiente acima não seja exportada.
+* Criação de método para exibir o valor da variável de ambiente no browser.
+* Executar projeto no terminal e exibir conteúdo no browser 
  
 
 O projeto consta com todos os passos desenvolvidos acima.
@@ -22,22 +24,6 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 ```
 http://localhost:8080
 ```
-
-
-Na parte 3 da aula, foram desenvolvidos os seguintes passos:
-
-* Execução do projeto no terminal com a passagem da porta a ser executada como argumento:
-
-```shell script
-mvn spring-boot:run -Dserver.port=8085
-```
-
-* Execução do projeto no terminal
-
-
-
-
-
 
 
 
