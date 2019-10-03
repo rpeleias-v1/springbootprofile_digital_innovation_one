@@ -14,9 +14,9 @@ Os exercícios dentro deste projeto contemplam cada um dos tópicos acima, respe
 
 Dentro de cada uma das pastas, constam as instruções de como executar cada um dos projetos.
 
-Para executar cada um dos projetos, são necessários os seguintes pré-requisitos:
+São necessários os seguintes pré-requisitos para a execução dos projetos da aula:
 
-* Jana 8 ou versões superiores.
+* Java 8 ou versões superiores.
 * Maven 3.5.2 ou versões superiores.
 * Intellj IDEA Community Edition ou sua IDE favorita.
 * Muita vontade de aprender e compartilhar conhecimento :)
