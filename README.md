@@ -1,7 +1,7 @@
 <h2>Digital Innovation: Aula - Spring Boot: Profiles e Configurações</h2>
 
 
-Nesta aula explicamos e detalhamos como funciona o uso do recurso de Profiles para a execução das propriedades de configuração de cada ambiente de execução. Os ambientes podem ser diversos: local, teste, produção, etc.
+Nesta aula explicamos e detalhamos como funciona o uso do recurso de Profiles. Com este recurso, é possível fazer a separaçõ das propriedades de execução referentes a cada tipo de ambiente: local, teste, produção, etc.
 
 Durante a aula, são abordados os seguintes tópicos:
 
@@ -14,4 +14,9 @@ Os exercícios dentro deste projeto contemplam cada um dos tópicos acima, respe
 
 Dentro de cada uma das pastas, constam as instruções de como executar cada um dos projetos.
 
+Para executar cada um dos projetos, são necessários os seguintes pré-requisitos:
 
+* Jana 8 ou versões superiores.
+* Maven 3.5.2 ou versões superiores.
+* Intellj IDEA Community Edition ou sua IDE favorita.
+* Muita vontade de aprender e compartilhar conhecimento :)
